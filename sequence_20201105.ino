@@ -1,6 +1,5 @@
 #include <EEPROM.h>
 #include <TimerThree.h>
-//테스트용
 //*** PWM CONFIGURATION
 #define PWM0    2
 #define PWM1    3
